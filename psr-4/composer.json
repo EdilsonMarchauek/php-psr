@@ -1,0 +1,16 @@
+{
+    "name": "eti/psr4",
+    "description": "Aula Sobre PSR-4",
+    "authors": [
+        {
+            "name": "EdilsonMarchauek",
+            "email": "edilson@luna.ppg.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ETI\\": "src/eti",
+            "App\\": "app/"
+        }
+    }
+}

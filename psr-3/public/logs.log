@@ -1,0 +1,4 @@
+[2022-02-16T16:25:20.324888+00:00] Nome do Log.WARNING: Foo [] []
+[2022-02-16T16:25:20.416906+00:00] Nome do Log.ERROR: Bar [] []
+[2022-02-16T16:27:38.691528+00:00] Nome do Log.WARNING: Foo [1,2,3,4] []
+[2022-02-16T16:27:38.747280+00:00] Nome do Log.ERROR: Bar ["calor","ferreira","especializati"] []
